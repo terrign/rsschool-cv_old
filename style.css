@@ -1,5 +1,5 @@
 html {
-    scroll-behavior: smooth; 
+    scroll-behavior: smooth;
   }
 
 .header {
@@ -10,7 +10,7 @@ html {
     width: 50%;
 }
 .body {
-    margin: 0px; 
+    margin: 0px;
     padding: 0px;
     min-height: 100vh;
     display: flex;
@@ -55,7 +55,7 @@ html {
     transition: color 0.3s;
   }
 .link {
-    text-decoration: none;  
+    text-decoration: none;
     transition: color 0.3s;
     color: #1b4ae4;
 }
